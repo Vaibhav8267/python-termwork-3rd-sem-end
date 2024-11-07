@@ -1,0 +1,5 @@
+This is a sample line.
+another sample line.
+First line with uppercase.
+hello again.
+Another uppercase line.
